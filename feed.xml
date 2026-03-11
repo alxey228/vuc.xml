@@ -1,55 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<realities date-create="2026-03-11T12:00:00+03:00">
-
-
-
+<realities date-create="2026-03-11T12:30:00+03:00">
 
 <reality>
-<local_reality_id>1006</local_reality_id>
+<local_reality_id>10001</local_reality_id>
+
 <state>Закарпатська</state>
 <city>Перечин</city>
+
 <category>Чоловічий одяг/Джинси</category>
-<title>Джинси Mustang сині класичні</title>
-<description>Класичні джинси Mustang у гарному стані. Зручні для повсякденного носіння.</description>
-<telephone>380501234572</telephone>
+
+<title>Чоловічі джинси Levi&apos;s сині класичні</title>
+
+<description>
+Продам чоловічі джинси Levi&apos;s у хорошому стані. Щільний денім, зручна посадка та класичний стиль. Підійдуть для повсякденного використання.
+</description>
+
+<telephone>380501234567</telephone>
+
 <photos_urls>
-<loc>https://example.com/photo7.jpg</loc>
+<loc>https://example.com/photo1.jpg</loc>
 </photos_urls>
+
 <characteristics>
+
 <razmer>M / 48 - 50 UKR / 38 - 40 US</razmer>
+
 <tip>Прямые джинсы</tip>
+
 <sostoyanie>Б/у</sostoyanie>
-<proizvoditel>Mustang</proizvoditel>
-<cena>650</cena>
+
+<proizvoditel>Levi&apos;s</proizvoditel>
+
+<cena>900</cena>
+
 <currency>Гривна</currency>
+
 </characteristics>
-<hash>hash1006</hash>
-<image_hash>img1006</image_hash>
+
+<hash>testhash10001</hash>
+
+<image_hash>testimagehash10001</image_hash>
+
 </reality>
-
-<reality>
-<local_reality_id>1007</local_reality_id>
-<state>Закарпатська</state>
-<city>Перечин</city>
-<category>Чоловічий одяг/Джинси</category>
-<title>Джинси Reserved нові темні</title>
-<description>Нові джинси Reserved. Сучасний крій та якісна тканина.</description>
-<telephone>380501234573</telephone>
-<photos_urls>
-<loc>https://example.com/photo8.jpg</loc>
-</photos_urls>
-<characteristics>
-<razmer>S / 46 UKR / 36 US</razmer>
-<tip>Зауженные джинсы</tip>
-<sostoyanie>Новое</sostoyanie>
-<proizvoditel>Reserved</proizvoditel>
-<cena>850</cena>
-<currency>Гривна</currency>
-</characteristics>
-<hash>hash1007</hash>
-<image_hash>img1007</image_hash>
-</reality>
-
-
 
 </realities>
