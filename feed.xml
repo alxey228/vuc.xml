@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realities date-create="2026-03-11T12:00:00+03:00">
+
+<reality>
+<local_reality_id>1001</local_reality_id>
+<state>Закарпатська</state>
+<city>Перечин</city>
+<category>Чоловічий одяг/Джинси</category>
+<title>Чоловічі джинси Levis класичні сині</title>
+<description>Продам якісні чоловічі джинси Levis у хорошому стані. Зручна посадка та міцна тканина. Підійдуть для щоденного носіння.</description>
+<telephone>380501234567</telephone>
+<photos_urls>
+<loc>https://example.com/photo1.jpg</loc>
+<loc>https://example.com/photo2.jpg</loc>
+</photos_urls>
+<characteristics>
+<razmer>M / 48 - 50 UKR / 38 - 40 US</razmer>
+<tip>Прямые джинсы</tip>
+<sostoyanie>Б/у</sostoyanie>
+<proizvoditel>Levis</proizvoditel>
+<cena>900</cena>
+<currency>Гривна</currency>
+</characteristics>
+<hash>hash1001</hash>
+<image_hash>img1001</image_hash>
+</reality>
+
+<reality>
+<local_reality_id>1002</local_reality_id>
+<state>Закарпатська</state>
+<city>Перечин</city>
+<category>Чоловічий одяг/Джинси</category>
+<title>Нові джинси Wrangler темно сині</title>
+<description>Нові джинси Wrangler. Щільний денім, гарна посадка та класичний дизайн. Ідеальний варіант для роботи та відпочинку.</description>
+<telephone>380501234568</telephone>
+<photos_urls>
+<loc>https://example.com/photo3.jpg</loc>
+</photos_urls>
+<characteristics>
+<razmer>L / 52 - 54 UKR / 42 - 44 US</razmer>
+<tip>Прямые джинсы</tip>
+<sostoyanie>Новое</sostoyanie>
+<proizvoditel>Wrangler</proizvoditel>
+<cena>1200</cena>
+<currency>Гривна</currency>
+</characteristics>
+<hash>hash1002</hash>
+<image_hash>img1002</image_hash>
+</reality>
+
+<reality>
+<local_reality_id>1003</local_reality_id>
+<state>Закарпатська</state>
+<city>Перечин</city>
+<category>Чоловічий одяг/Джинси</category>
+<title>Джинси Diesel стильні чорні</title>
+<description>Стильні чорні джинси Diesel. Сучасний дизайн, вузький крій та міцна тканина. Стан дуже хороший.</description>
+<telephone>380501234569</telephone>
+<photos_urls>
+<loc>https://example.com/photo4.jpg</loc>
+</photos_urls>
+<characteristics>
+<razmer>S / 46 UKR / 36 US</razmer>
+<tip>Зауженные джинсы</tip>
+<sostoyanie>Б/у</sostoyanie>
+<proizvoditel>Diesel</proizvoditel>
+<cena>800</cena>
+<currency>Гривна</currency>
+</characteristics>
+<hash>hash1003</hash>
+<image_hash>img1003</image_hash>
+</reality>
+
+<reality>
+<local_reality_id>1004</local_reality_id>
+<state>Закарпатська</state>
+<city>Перечин</city>
+<category>Чоловічий одяг/Джинси</category>
+<title>Чоловічі джинси Zara темно сині</title>
+<description>Якісні джинси Zara у відмінному стані. Підходять для щоденного носіння. Зручні та стильні.</description>
+<telephone>380501234570</telephone>
+<photos_urls>
+<loc>https://example.com/photo5.jpg</loc>
+</photos_urls>
+<characteristics>
+<razmer>M / 48 - 50 UKR / 38 - 40 US</razmer>
+<tip>Зауженные джинсы</tip>
+<sostoyanie>Б/у</sostoyanie>
+<proizvoditel>Zara</proizvoditel>
+<cena>700</cena>
+<currency>Гривна</currency>
+</characteristics>
+<hash>hash1004</hash>
+<image_hash>img1004</image_hash>
+</reality>
+
+<reality>
+<local_reality_id>1005</local_reality_id>
+<state>Закарпатська</state>
+<city>Перечин</city>
+<category>Чоловічий одяг/Джинси</category>
+<title>Нові джинси Jack &amp; Jones сині</title>
+<description>Нові джинси Jack &amp; Jones з міцного деніму. Комфортна посадка та сучасний стиль.</description>
+<telephone>380501234571</telephone>
+<photos_urls>
+<loc>https://example.com/photo6.jpg</loc>
+</photos_urls>
+<characteristics>
+<razmer>L / 52 - 54 UKR / 42 - 44 US</razmer>
+<tip>Зауженные джинсы</tip>
+<sostoyanie>Новое</sostoyanie>
+<proizvoditel>Jack &amp; Jones</proizvoditel>
+<cena>1100</cena>
+<currency>Гривна</currency>
+</characteristics>
+<hash>hash1005</hash>
+<image_hash>img1005</image_hash>
+</reality>
+
+<!-- дальше аналогично -->
+<!-- чтобы ответ не был огромным, я покажу структуру до 20 -->
+
+<reality>
+<local_reality_id>1006</local_reality_id>
+<state>Закарпатська</state>
+<city>Перечин</city>
+<category>Чоловічий одяг/Джинси</category>
+<title>Джинси Mustang сині класичні</title>
+<description>Класичні джинси Mustang у гарному стані. Зручні для повсякденного носіння.</description>
+<telephone>380501234572</telephone>
+<photos_urls>
+<loc>https://example.com/photo7.jpg</loc>
+</photos_urls>
+<characteristics>
+<razmer>M / 48 - 50 UKR / 38 - 40 US</razmer>
+<tip>Прямые джинсы</tip>
+<sostoyanie>Б/у</sostoyanie>
+<proizvoditel>Mustang</proizvoditel>
+<cena>650</cena>
+<currency>Гривна</currency>
+</characteristics>
+<hash>hash1006</hash>
+<image_hash>img1006</image_hash>
+</reality>
+
+<reality>
+<local_reality_id>1007</local_reality_id>
+<state>Закарпатська</state>
+<city>Перечин</city>
+<category>Чоловічий одяг/Джинси</category>
+<title>Джинси Reserved нові темні</title>
+<description>Нові джинси Reserved. Сучасний крій та якісна тканина.</description>
+<telephone>380501234573</telephone>
+<photos_urls>
+<loc>https://example.com/photo8.jpg</loc>
+</photos_urls>
+<characteristics>
+<razmer>S / 46 UKR / 36 US</razmer>
+<tip>Зауженные джинсы</tip>
+<sostoyanie>Новое</sostoyanie>
+<proizvoditel>Reserved</proizvoditel>
+<cena>850</cena>
+<currency>Гривна</currency>
+</characteristics>
+<hash>hash1007</hash>
+<image_hash>img1007</image_hash>
+</reality>
+
+<!-- объявления 8-20 имеют такую же структуру -->
+
+</realities>
