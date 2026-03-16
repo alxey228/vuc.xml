@@ -1,27 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realties date-create="2026-03-15T09:15:00+03:00">
-    <realty>
+    <reality>
         <local_reality_id>10004</local_reality_id>
         <state>Закарпатська</state>
         <city>Перечин</city>
-        <category>Жіночий одяг/Світера, джемпера, кофти</category>
-        <title>Гарний жіночий светр Zara</title>
-        <description>Продаю майже новий жіночий светр від бренду Zara. Дуже теплий, зручний та приємний до тіла. Розмір M. Можлива відправка поштою по всій Україні.</description>
+        <category>Чоловічий одяг /Светри, джемпери, толстовки</category>
+        <title>Гарний чоловічий светр Zara</title>
+        <description>Продаю майже новий чоловічий светр від бренду Zara. Дуже теплий, зручний та приємний до тіла. Розмір M. Можлива відправка поштою по всій Україні.</description>
         <telephone>0501234567</telephone>
         <photos_urls>
             <loc>https://example.com/images/sweater1.jpg</loc>
         </photos_urls>
         <characteristics>
-            <tip>Свитер</tip>
+            <razmer>M / 48 UKR / 16 US</razmer>
             <cvet>Красный</cvet>
-            <dlina>Стандартная</dlina>
             <sostoyanie>Б/у</sostoyanie>
-            <razmer>M / 44-46 UKR / 12-14 US</razmer>
+            <tip>Свитер</tip>
+            <proizvoditel>Zara</proizvoditel>
             <cena>450</cena>
-            <brend>Zara</brend>
             <currency>Гривна</currency>
         </characteristics>
         <hash>8b1a9953c4611296a827abf8c47804d7</hash>
         <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
-    </realty>
+    </reality>
 </realties>
