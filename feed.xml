@@ -1,28 +1,1253 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<realties date-create="2026-03-21T20:00:00+03:00">
+<realties date-create='2026-03-21T20:15:00+03:00'>
     <reality>
-        <local_reality_id>10005</local_reality_id>
-        <state>Закарпатська</state>
-        <city>Перечин</city>
-        <category>Жіноче взуття/Туфлі</category>
-        <title>Гарні жіночі туфлі Zara, розмір 37</title>
-        <description>Продам майже нові жіночі туфлі від бренду Zara. Вдягалися лише один раз. Дуже зручні та стильні. Можлива відправка.</description>
+        <local_reality_id>10001</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 1)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
         <telephone>0501234567,0671234567</telephone>
         <photos_urls>
             <loc>https://files.catbox.moe/41shu3.jpg</loc>
         </photos_urls>
         <characteristics>
             <razmer>37 UKR / 23,9 - 24,1 см</razmer>
-            <cvet>Черный</cvet>
-            <material-verha>Замша</material-verha>
-            <sezon>Демисезон</sezon>
-            <sostoyanie>Б/у</sostoyanie>
-            <stil>Лодочки</stil>
-            <cena>1500</cena>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1501</cena>
             <proizvoditel>Zara</proizvoditel>
-            <currency>Гривна</currency>
+            <currency>ривна</currency>
         </characteristics>
-        <hash>8b1a9953c4611296a827abf8c47804d7</hash>
+        <hash>8b1a9953c4611296a827abf8c10001</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10002</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 2)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1502</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10002</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10003</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 3)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1503</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10003</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10004</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 4)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1504</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10004</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10005</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 5)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1505</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10005</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10006</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 6)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1506</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10006</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10007</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 7)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1507</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10007</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10008</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 8)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1508</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10008</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10009</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 9)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1509</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10009</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10010</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 10)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1510</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10010</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10011</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 11)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1511</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10011</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10012</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 12)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1512</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10012</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10013</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 13)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1513</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10013</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10014</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 14)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1514</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10014</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10015</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 15)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1515</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10015</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10016</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 16)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1516</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10016</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10017</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 17)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1517</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10017</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10018</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 18)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1518</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10018</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10019</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 19)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1519</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10019</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10020</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 20)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1520</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10020</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10021</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 21)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1521</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10021</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10022</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 22)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1522</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10022</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10023</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 23)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1523</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10023</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10024</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 24)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1524</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10024</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10025</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 25)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1525</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10025</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10026</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 26)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1526</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10026</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10027</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 27)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1527</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10027</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10028</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 28)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1528</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10028</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10029</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 29)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1529</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10029</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10030</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 30)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1530</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10030</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10031</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 31)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1531</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10031</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10032</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 32)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1532</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10032</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10033</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 33)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1533</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10033</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10034</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 34)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1534</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10034</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10035</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 35)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1535</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10035</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10036</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 36)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1536</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10036</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10037</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 37)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1537</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10037</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10038</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 38)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1538</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10038</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10039</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 39)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1539</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10039</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10040</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 40)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1540</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10040</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10041</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 41)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1541</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10041</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10042</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 42)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1542</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10042</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10043</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 43)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1543</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10043</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10044</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 44)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1544</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10044</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10045</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 45)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1545</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10045</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10046</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 46)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1546</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10046</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10047</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 47)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1547</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10047</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10048</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 48)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1548</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10048</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10049</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 49)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1549</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10049</hash>
+        <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
+    </reality>
+    <reality>
+        <local_reality_id>10050</local_reality_id>
+        <state>акарпатська</state>
+        <city>еречин</city>
+        <category>іноче взуття/Туфлі</category>
+        <title>арні жіночі туфлі Zara, розмір 37 (модель 50)</title>
+        <description>родам майже нові жіночі туфлі від бренду Zara. дягалися лише один раз. уже зручні та стильні. ожлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
+        <photos_urls>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
+        </photos_urls>
+        <characteristics>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>ерный</cvet>
+            <material-verha>амша</material-verha>
+            <sezon>емисезон</sezon>
+            <sostoyanie>/у</sostoyanie>
+            <stil>одочки</stil>
+            <cena>1550</cena>
+            <proizvoditel>Zara</proizvoditel>
+            <currency>ривна</currency>
+        </characteristics>
+        <hash>8b1a9953c4611296a827abf8c10050</hash>
         <image_hash>e10adc3949ba59abbe56e057f20f883e</image_hash>
     </reality>
 </realties>
