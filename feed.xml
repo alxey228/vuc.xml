@@ -1,23 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<realties date-create="2026-03-15T09:15:00+03:00">
+<realties date-create="2026-03-21T20:00:00+03:00">
     <reality>
-        <local_reality_id>10004</local_reality_id>
+        <local_reality_id>10005</local_reality_id>
         <state>Закарпатська</state>
         <city>Перечин</city>
-        <category>Чоловічий одяг /Светри, джемпери, толстовки</category>
-        <title>Гарний чоловічий светр Zara</title>
-        <description>Продаю майже новий чоловічий светр від бренду Zara. Дуже теплий, зручний та приємний до тіла. Розмір M. Можлива відправка поштою по всій Україні.</description>
-        <telephone>0501234567</telephone>
+        <category>Жіноче взуття/Туфлі</category>
+        <title>Гарні жіночі туфлі Zara, розмір 37</title>
+        <description>Продам майже нові жіночі туфлі від бренду Zara. Вдягалися лише один раз. Дуже зручні та стильні. Можлива відправка.</description>
+        <telephone>0501234567,0671234567</telephone>
         <photos_urls>
-            <loc>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsvhUtLBWz2u9A4TDNq7e_PYEP3bmuBsZTA&amp;s</loc>
+            <loc>https://files.catbox.moe/41shu3.jpg</loc>
         </photos_urls>
         <characteristics>
-            <razmer>M / 48 UKR / 16 US</razmer>
-            <cvet>Красный</cvet>
+            <razmer>37 UKR / 23,9 - 24,1 см</razmer>
+            <cvet>Черный</cvet>
+            <material-verha>Замша</material-verha>
+            <sezon>Демисезон</sezon>
             <sostoyanie>Б/у</sostoyanie>
-            <tip>Свитер</tip>
+            <stil>Лодочки</stil>
+            <cena>1500</cena>
             <proizvoditel>Zara</proizvoditel>
-            <cena>450</cena>
             <currency>Гривна</currency>
         </characteristics>
         <hash>8b1a9953c4611296a827abf8c47804d7</hash>
